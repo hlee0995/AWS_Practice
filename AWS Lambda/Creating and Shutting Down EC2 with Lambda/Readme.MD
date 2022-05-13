@@ -37,4 +37,7 @@ Key: REGION Value:us-east-2
 
 ![12](https://user-images.githubusercontent.com/82815882/168393472-51dfc9b6-4f51-4cfb-beda-f292e37333fc.png)
 
+### Step7, Create StopEC2 Function in similar way and change iam permission again
+
+
 
