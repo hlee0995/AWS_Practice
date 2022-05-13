@@ -20,7 +20,7 @@ Set up execution role as create a new role with basic lambda permission and make
 ![EC2 Permission Tap ](https://user-images.githubusercontent.com/82815882/168392835-e997df23-1c05-42d7-8d8a-12e867c935e3.png)
 
 
-###Step 5, Add Environment Variable
+###Step 5, Add Environment Variable and write the code
 
 ![env](https://user-images.githubusercontent.com/82815882/168393073-31249aa3-1da1-478c-b4cc-032ec4c4ba61.png)
 
@@ -39,5 +39,19 @@ Key: REGION Value:us-east-2
 
 ### Step7, Create StopEC2 Function in similar way and change iam permission again
 
+![StopEC2](https://user-images.githubusercontent.com/82815882/168394167-e41679c9-36ac-440e-87bf-236cfefc56a6.png)
+
+### Step 8, Add Environment Variable and write the code
+
+![evn stop](https://user-images.githubusercontent.com/82815882/168394556-91b7eb97-5d32-485c-a515-83902b0adc51.png)
+
+
+### Step 9, Result
+
+![stop it](https://user-images.githubusercontent.com/82815882/168394481-14e58e5e-12a5-4b87-ad02-2cb5d5972813.png)
+![result](https://user-images.githubusercontent.com/82815882/168394488-63507169-f15c-4991-9288-0ec24c8f0c8a.png)
+
+
+In this way, I learned how to create and shut down EC2 function with serverless AWS Lambda Function 
 
 
