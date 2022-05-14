@@ -52,6 +52,6 @@ Key: REGION Value:us-east-2
 ![result](https://user-images.githubusercontent.com/82815882/168394488-63507169-f15c-4991-9288-0ec24c8f0c8a.png)
 
 
-### In this way, I learned how to create and shut down EC2 function with serverless AWS Lambda Function 
+### In this way, I learned how i can utilize AWS Lambda Function
 
 
