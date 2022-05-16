@@ -1,0 +1,1 @@
+For this project, you are tasked with provisioning a Lambda function to generate near real time finance data records for interactive querying. You're going to basically generate a real time data pipeline for finance data records for interactive querying.
