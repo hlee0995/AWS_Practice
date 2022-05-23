@@ -24,16 +24,27 @@ AWS Athena
 ## Forder Structure
 
 project03
+
 +-- results.csv
+
 +-- results.jpeg
+
 +-- query.sql
+
 +-- data_transformer.py
+
 +-- Analysis.ipynb 	
+
 +-- Analysis.pdf 	
+
 +-- finance_data.zip 
+
 +-- assets
+
 +-- +-- kinesis_config.jpeg
+
 +-- +-- screenshot_of_s3_bucket.jpeg
+
 +-- README.md
 
 ## Steps
