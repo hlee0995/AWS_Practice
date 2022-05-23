@@ -13,10 +13,15 @@ This data is used for making Analysis in stock data.
 ## Built With
 
 Python
+
 AWS Lambda
+
 Kinesis
+
 AWS S3 Buckets
+
 AWS Glue
+
 AWS Athena
 
 
