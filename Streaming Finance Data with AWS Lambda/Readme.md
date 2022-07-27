@@ -15,15 +15,15 @@ This data is used for making Analysis in stock data through Python Jupyter Noteb
 
 Python
 
-AWS Lambda
+AWS Lambdav to process stock feed data
 
-Kinesis
+Kinesis to streamline
 
-AWS S3 Buckets
+AWS S3 Buckets 
 
-AWS Glue
+AWS Glue to analyze data
 
-AWS Athena
+AWS Athena to process query
 
 
 
